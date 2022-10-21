@@ -5,7 +5,7 @@ Assignment: CSS Hell
 
 - Changed some lines of existing css styling in all 3 html documents
 
-- Added '<link rel="stylesheet" href="./data/style.css">' in all 3 html documents 
+- Added 'link rel="stylesheet" href="./data/style.css"' in all 3 html documents 
 
 
 You will skin 3 project gutenberg stories with custom CSS.
