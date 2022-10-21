@@ -1,6 +1,13 @@
 Assignment: CSS Hell
 ====================
 
+## Changes to the gutenberg HTML files
+
+- Changed some lines of existing css styling in all 3 html documents
+
+- Added '<link rel="stylesheet" href="./data/style.css">' in all 3 html documents 
+
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
