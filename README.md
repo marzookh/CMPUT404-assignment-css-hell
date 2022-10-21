@@ -8,17 +8,6 @@ Assignment: CSS Hell
 - Added 'link rel="stylesheet" href="./data/style.css"' in all 3 html documents 
 
 
-You will skin 3 project gutenberg stories with custom CSS.
-
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
-
-Read requirements.org
-
-Read this comic http://theoatmeal.com/comics/design_hell
-
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
-
 License/Copyright
 =================
 
