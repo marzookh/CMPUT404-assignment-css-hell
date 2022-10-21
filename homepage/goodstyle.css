@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-image: url('data/goodbackground.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.myImage {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid rgb(11, 9, 9);
+    padding-bottom: 10px;
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid rgb(11, 9, 9);
+    padding-bottom: 10px;
+    max-width: 500px;
+    margin:auto;
+}
+
+img {
+    opacity: 85%;
+    border-radius: 25%;
+}
